@@ -1,0 +1,6 @@
+@EmailBackgroundJobDemo_HostAddress = http://localhost:5271
+
+GET {{EmailBackgroundJobDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
